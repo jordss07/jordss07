@@ -1,4 +1,32 @@
 body {
     background-color: aqua;
-    color: black
+    color: black;
+
+font- family: "Dancing Script", cursive;
+}
+header{
+    font-family: "Manufacturing Consent", sytem-ui;
+font-size: 50px;
+border-bottom: double 5px white;
+padding:40px
+text-align: center;
+
+
+}
+hl{
+font-size: 30px
+}
+section{
+display: flex;
+justify-content: center;
+backgroud-color: darkcyan;
+
+}
+.texto {
+margin-right: 5%;
+
+}
+img{
+    width:300px;
+    height: 200px;
 }
